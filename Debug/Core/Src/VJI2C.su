@@ -1,0 +1,6 @@
+VJI2C.cpp:10:1:VJ_I2C::VJ_I2C()	16	static
+VJI2C.cpp:14:1:VJ_I2C::~VJ_I2C()	16	static
+VJI2C.cpp:14:1:virtual VJ_I2C::~VJ_I2C()	16	static
+VJI2C.cpp:18:6:void i2cInit()	8	static
+VJI2C.cpp:22:6:void i2cRead()	8	static
+VJI2C.cpp:26:6:void i2cWrite()	8	static
